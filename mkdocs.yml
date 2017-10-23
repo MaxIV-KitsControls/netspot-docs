@@ -1,0 +1,14 @@
+site_name: NetSPOT
+pages:
+    - Home: index.md
+    - Overview: overview.md
+    - Server setup: server_setup.md
+    - CLI Usage: cli_usage.md
+    - NS Inventory: ns_inventory.md
+    - NetSPOT Web: netspotweb.md
+    - Playbooks: playbooks.md
+    - Templates: templates.md
+    - NetSPOT documentation: netspotdocumentation.md
+    - API: api.md
+    - Beamline Support: beamline.md
+theme: readthedocs
